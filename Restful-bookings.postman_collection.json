@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "1933e7b3-ae38-43ff-8af2-dbf8c8279223",
 		"name": "Restful-bookings",
-		"description": "version=1 - this is the restful-booking API.",
+		"description": "version=1.0 - this is the restful-booking API.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
