@@ -30,6 +30,7 @@
 			},
 			"response": [
 				{
+					"id": "05486047-439f-408d-97e7-a9925107a2a1",
 					"name": "Authentication token",
 					"originalRequest": {
 						"method": "POST",
