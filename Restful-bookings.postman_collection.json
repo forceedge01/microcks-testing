@@ -30,7 +30,7 @@
 			},
 			"response": [
 				{
-					"name": "Authenticate",
+					"name": "Authentication token",
 					"originalRequest": {
 						"method": "POST",
 						"header": [
@@ -97,7 +97,7 @@
 			},
 			"response": [
 				{
-					"name": "Retrieve bookings",
+					"name": "Retrieve bookings all of them",
 					"originalRequest": {
 						"method": "GET",
 						"header": [],
@@ -175,7 +175,7 @@
 			},
 			"response": [
 				{
-					"name": "Retrieve booking by name",
+					"name": "Retrieve booking by name custom",
 					"originalRequest": {
 						"method": "GET",
 						"header": [],
@@ -253,7 +253,7 @@
 			},
 			"response": [
 				{
-					"name": "Single booking by ID",
+					"name": "Single booking by ID is the default",
 					"originalRequest": {
 						"method": "GET",
 						"header": [],
@@ -325,7 +325,7 @@
 			},
 			"response": [
 				{
-					"name": "Create Booking",
+					"name": "Create Booking whatever",
 					"originalRequest": {
 						"method": "POST",
 						"header": [
@@ -417,7 +417,7 @@
 			},
 			"response": [
 				{
-					"name": "Update Booking",
+					"name": "Update Booking - stuffs",
 					"originalRequest": {
 						"method": "PUT",
 						"header": [
